@@ -1,1 +1,3 @@
 # FinalYearProject
+
+anaconda venv needed
