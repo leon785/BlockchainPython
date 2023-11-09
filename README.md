@@ -1,6 +1,6 @@
 # Blockchain System Demo Based On Python
 
-It is a a blockchain-based system for storing data from the IOV-like network emulation.
+It is a blockchain-based system for storing data from the IOV-like network emulation.
 
 Nowadays, information security is becoming more and more important. Under the topic of Internet of Vehicles, all traffic units, such as vehicles, traffic lights, etc., will be connected to each other, and then become a huge network.
 
